@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niklas</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simsummc&label=Profile%20views&color=0e75b6&style=flat" alt="niklasmoell" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=simsummc&label=Profile%20views&color=0e75b6&style=flat-square" alt="niklasmoell" /> </p>
 
 - 🌱 I’m currently learning **React**
 
